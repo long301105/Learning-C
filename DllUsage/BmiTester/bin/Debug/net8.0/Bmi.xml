@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bmi</name>
+    </assembly>
+    <members>
+        <member name="T:Bmi.BmiCalculator">
+            <summary>
+            Class này cung cáp các hàm tính chỉ số BMI của 1 cá nhân bất kì dựa trên chiều cao và cân nặng đồng thời cảnh báo mập ốm
+            </summary>
+        </member>
+        <member name="M:Bmi.BmiCalculator.GetBmi(System.Double,System.Double)">
+            <summary>
+            Hàm này trả về chỉ số BMI dựa trên cân nặng và chiều cao
+            </summary>
+            <param name="weight">Cân nặng đo bằng kg</param>
+            <param name="height">đo bằng m </param>
+            <returns></returns>
+            
+        </member>
+    </members>
+</doc>
